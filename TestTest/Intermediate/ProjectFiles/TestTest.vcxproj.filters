@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B1718DFF-BB38-4DB2-A0D5-7CDCAEC00681}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{62DC86BD-B658-43AC-AA5E-36C1B667A493}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestTest">
+      <UniqueIdentifier>{F7C54951-DB5F-4BDB-B617-F02ED585EA56}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestTest\TestTest.Build.cs">
+      <Filter>Source\TestTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestTest\TestTest.cpp">
+      <Filter>Source\TestTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTest\TestTest.h">
+      <Filter>Source\TestTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTest\TestTestBlock.cpp">
+      <Filter>Source\TestTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTest\TestTestBlock.h">
+      <Filter>Source\TestTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTest\TestTestBlockGrid.cpp">
+      <Filter>Source\TestTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTest\TestTestBlockGrid.h">
+      <Filter>Source\TestTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTest\TestTestGameMode.cpp">
+      <Filter>Source\TestTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTest\TestTestGameMode.h">
+      <Filter>Source\TestTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTest\TestTestPawn.cpp">
+      <Filter>Source\TestTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTest\TestTestPawn.h">
+      <Filter>Source\TestTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTest\TestTestPlayerController.cpp">
+      <Filter>Source\TestTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTest\TestTestPlayerController.h">
+      <Filter>Source\TestTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
