@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\TestTestEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTest.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestBlock.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestBlockGrid.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestGameMode.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestPawn.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestPlayerController.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTest.init.gen.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestBlock.gen.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestBlockGrid.gen.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestGameMode.gen.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestPawn.gen.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\TestTestPlayerController.gen.cpp.obj"
+"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\Default.rc2.res"
+/OUT:"D:\Unreal Projects\UnrealTest\TestTest\Intermediate\Build\Win64\UE4Editor\Development\TestTest\UE4Editor-TestTest.lib"
+/INCLUDE:IMPLEMENT_MODULE_TestTest
